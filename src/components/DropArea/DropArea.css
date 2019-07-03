@@ -1,0 +1,40 @@
+.centreText {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 150px;
+  }
+  
+  .dropZone {
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    height: 51vh;
+    background-color: rgba(107, 186, 167, 0.3);
+    border-radius: 20px;
+    color: white;
+  }
+  
+  .image1 {
+    max-width: 100%;
+    height: 50vh;
+  }
+  
+  .dank {
+    display:flex;
+    justify-content:center;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .dropZoneText {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
